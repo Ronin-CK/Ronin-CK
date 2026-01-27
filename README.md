@@ -12,14 +12,12 @@ I am a college student from **Uttar Pradesh, India** 🇮🇳
 
 I specialize in building custom tools for the Linux desktop ecosystem, creating automation scripts, and designing minimal user interfaces.
 
-Currently focusing on **System Architecture** and **Linux Customization**.
 
 ---
 
 ## 🔭 Currently
 
 - 🏗️ Building: **Custom Hyprland Tools**
-- 📚 Learning: **System Programming & Rust**
 - 🎯 Goal: **Contributing more to open-source**
 - 🤝 Open to: **Collaborations on Linux tools**
 
