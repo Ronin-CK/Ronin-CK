@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Chandra+Kant!+%F0%9F%91%8B;Linux+Enthusiast+%26+Developer;Open+Source+Contributor)
+<img width="208" height="34" alt="image" src="https://github.com/user-attachments/assets/7f92a94f-1e4d-4e77-8b41-edd0f8fb44f8" />![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Chandra+Kant!+%F0%9F%91%8B;Linux+Enthusiast+%26+Developer;Open+Source+Contributor)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ronin-CK&color=7AA2F7&style=flat-square&label=Profile+Views" />
@@ -53,13 +53,13 @@ I specialize in building custom tools for the Linux desktop ecosystem, creating 
       <p align="center">A modern, minimal OCR & Google Lens tool designed for Hyprland.</p>
     </td>
     <td width="50%">
-      <h3 align="center">Noir-dots</h3>
+      <h3 align="center">On-Screen-Keyboard</h3>
       <p align="center">
-        <a href="https://github.com/Ronin-CK/Noir-dots">
+        <a href="https://github.com/Ronin-CK/On-Screen-Keyboard">
           <img src="https://img.shields.io/badge/View_Repo-7AA2F7?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p align="center">Highly configured dotfiles for a minimal Linux environment.</p>
+      <p align="center">A standalone, floating on-screen keyboard for Wayland compositors built with Quickshell and QtQuick.</p>
     </td>
   </tr>
   <tr>
@@ -73,13 +73,13 @@ I specialize in building custom tools for the Linux desktop ecosystem, creating 
       <p align="center">An automated backup solution for the Zen Browser.</p>
     </td>
     <td width="50%">
-      <h3 align="center">TimeSnap</h3>
+      <h3 align="center">Video Enhancer</h3>
       <p align="center">
-        <a href="https://github.com/Ronin-CK/TimeSnap">
+        <a href="https://github.com/Ronin-CK/Video-Enhancer">
           <img src="https://img.shields.io/badge/View_Repo-7AA2F7?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p align="center">A browser extension to organize and revisit video timestamps.</p>
+      <p align="center">Enhance video clarity and vibrancy on Browser with real-time HDR simulation and dynamic sharpening.</p>
     </td>
   </tr>
 </table>
