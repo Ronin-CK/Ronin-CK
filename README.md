@@ -99,6 +99,13 @@ I specialize in building custom tools for the Linux desktop ecosystem, creating 
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ronin-CK/Ronin-CK/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ronin-CK/Ronin-CK/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ronin-CK/Ronin-CK/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 ## 📫 Connect with Me
 
 <p align="center">
@@ -117,12 +124,6 @@ I specialize in building custom tools for the Linux desktop ecosystem, creating 
 </p>
 
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ronin-CK/Ronin-CK/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ronin-CK/Ronin-CK/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ronin-CK/Ronin-CK/output/github-contribution-grid-snake.svg">
-</picture>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=100&section=footer"/>
