@@ -1,4 +1,4 @@
-<img width="208" height="34" alt="image" src="https://github.com/user-attachments/assets/7f92a94f-1e4d-4e77-8b41-edd0f8fb44f8" />![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Chandra+Kant!+%F0%9F%91%8B;Linux+Enthusiast+%26+Developer;Open+Source+Contributor)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Chandra+Kant!+%F0%9F%91%8B;Linux+Enthusiast+%26+Developer;Open+Source+Contributor)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ronin-CK&color=7AA2F7&style=flat-square&label=Profile+Views" />
