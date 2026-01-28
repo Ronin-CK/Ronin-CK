@@ -93,10 +93,6 @@ I specialize in building custom tools for the Linux desktop ecosystem, creating 
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronin-CK&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
 </p>
 
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ronin-CK&theme=tokyonight&hide_border=true&background=1a1b27" />
-</p>
-
 ---
 
 <picture>
