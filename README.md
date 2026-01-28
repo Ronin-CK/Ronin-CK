@@ -70,7 +70,7 @@ I specialize in building custom tools for the Linux desktop ecosystem, creating 
           <img src="https://img.shields.io/badge/View_Repo-7AA2F7?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p align="center">An automated backup solution for the Zen Browser.</p>
+      <p align="center">A Simple Backup Tool for FireFox Forks / Zen Browser.</p>
     </td>
     <td width="50%">
       <h3 align="center">Video Enhancer</h3>
