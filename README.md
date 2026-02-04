@@ -9,27 +9,28 @@ Desktop customization enthusiast and developer from Uttar Pradesh, India. I buil
 | **[HyprQuickSnip](https://github.com/Ronin-CK/HyprQuickSnip)** | Minimal OCR and screen capture tool for Hyprland. |
 | **[HyprQuickFrame](https://github.com/Ronin-CK/HyprQuickFrame)** | Fast, aesthetic screenshot utility. |
 | **[Zen-Backup-Tool](https://github.com/Ronin-CK/Zen-Backup-Tool)** | Backup solution for Firefox and Zen Browser. |
-| **[noctalia-plugins](https://github.com/Ronin-CK/noctalia-plugins)** | Custom plugins for the Noctalia shell. |
+| **[fastfetch-PNG](https://github.com/Ronin-CK/fastfetch-PNG)** | Custom artwork and configuration for Fastfetch. |
 
 ### Stack
 
 - **Languages:** QML, Python, Shell, JavaScript
-- **Tools:** Neovim, Git, Arch Linux
+- **Tools:** Neovim, Git, Arch
 
-### Connect
-
-[Instagram](https://www.instagram.com/_s_vishal__) • [Reddit](https://www.reddit.com/user/_Ronin_10/)
-
-<br />
-
-<div align="left">
-  <a href="https://github.com/Ronin-CK">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ronin-CK&show_icons=true&theme=default&hide_border=true&hide_title=true&include_all_commits=true&count_private=true" height="150" alt="stats" />
-  </a>
+<div align="center">
+  <a href="https://www.instagram.com/_s_vishal__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.reddit.com/user/_Ronin_10/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=Ronin-CK&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </div>
 
 <br />
 
+<br />
+
 <div align="center">
-  <img src="https://github.com/Ronin-CK/Ronin-CK/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ronin-CK/Ronin-CK/raw/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Ronin-CK/Ronin-CK/raw/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/Ronin-CK/Ronin-CK/raw/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
