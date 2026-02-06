@@ -6,7 +6,7 @@ Desktop customization enthusiast and developer from Uttar Pradesh, India. I buil
 
 | Name | Description |
 | :--- | :--- |
-| **[HyprQuickSnip](https://github.com/Ronin-CK/HyprQuickSnip)** | Minimal OCR and screen capture tool for Hyprland. |
+| **[QuickSnip](https://github.com/Ronin-CK/QuickSnip)** | Lightweight Wayland OCR & Google Lens utility built with Quickshell.  |
 | **[HyprQuickFrame](https://github.com/Ronin-CK/HyprQuickFrame)** | Fast, aesthetic screenshot utility. |
 | **[Zen-Backup-Tool](https://github.com/Ronin-CK/Zen-Backup-Tool)** | Backup solution for Firefox and Zen Browser. |
 | **[fastfetch-PNG](https://github.com/Ronin-CK/fastfetch-PNG)** | Custom artwork and configuration for Fastfetch. |
