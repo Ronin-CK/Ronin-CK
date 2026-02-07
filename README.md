@@ -1,6 +1,6 @@
 # Chandra Kant
 
-Desktop customization enthusiast and developer from Uttar Pradesh, India. I build tools for **Hyprland** and the Linux ecosystem, focusing on speed and native integration.
+Desktop customization enthusiast and developer from Uttar Pradesh, India. I build tools for the Linux ecosystem, focusing on speed and native integration.
 
 ### Projects
 
